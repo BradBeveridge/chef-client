@@ -26,6 +26,6 @@ depends 'cron', '>= 4.2.0'
 depends 'logrotate', '>= 1.9.0'
 depends 'windows', '>= 2.0.0'
 
-source_url 'https://github.com/chef-cookbooks/chef-client'
-issues_url 'https://github.com/chef-cookbooks/chef-client/issues'
+source_url 'https://github.com/BradBeveridge/chef-client'
+issues_url 'https://github.com/BradBeveridge/chef-client/issues'
 chef_version '>= 12.11' if respond_to?(:chef_version)
